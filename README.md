@@ -64,3 +64,7 @@ Python script that performs OCR on multiple PDF files, can translate via google 
 
 ## Author
 •	Alex Anduss – All python scripts
+
+## Credit
+•	The Demo PDF of the Declaration of Independence is from: https://www.constitutionfacts.com/
+
